@@ -1,3 +1,2 @@
 # My-Data-Science
-Belajar tidak pernah usai
-kumpulan materi-materi yang saya dapatkan dari Bootcamp maupun Kursus
+kumpulan materi-materi tentang Data Science yang saya dapatkan dari Bootcamp maupun Kursus
